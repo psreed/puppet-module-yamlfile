@@ -1,5 +1,15 @@
 # yamlfile #
 
+# Updated for PDK and Puppet 8 use
+
+This module has been adapted from `reidmv-yamlfile` and an attempt made to update it for Puppet 8.
+This module should also now be compatible with PDK 3.x+
+
+
+# Previous README from original module
+
+[Forge Link](https://forge.puppet.com/modules/reidmv/yamlfile/readme)
+
 yamlfile module with yaml_setting type+provider, a la Chris Price’ inifile
 module / ini_setting type+provider
 
